@@ -1,4 +1,4 @@
-package com.example.gh.gothomeapplication;
+package com.example.gh.gothomeapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.gh.gothomeapplication", appContext.getPackageName());
+        assertEquals("com.example.gh.gothomeapp", appContext.getPackageName());
     }
 }

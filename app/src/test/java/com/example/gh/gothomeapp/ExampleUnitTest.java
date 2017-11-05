@@ -1,4 +1,4 @@
-package com.example.gh.gothomeapplication;
+package com.example.gh.gothomeapp;
 
 import org.junit.Test;
 

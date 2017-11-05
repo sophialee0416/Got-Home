@@ -6,11 +6,14 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+
+
 public class contacts extends Fragment {
     public static contacts newInstance() {
         contacts fragment = new contacts();
         return fragment;
     }
+
 
     @Override
     public void onCreate(Bundle savedInstanceState) {

@@ -1,6 +1,13 @@
 <resources>
-    <string name="app_name">GotHomeApp</string>
+    <string name="app_name">Got Home</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_contacts">Contacts</string>
+    <string name="title_settings">Settings</string>
+    <string name="data_current_address">text</string>
+    <string name="go_home">GO HOME</string>
+    <string name="home">Enter Address</string>
+    <string name="save_address">Save Address</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

@@ -7,7 +7,11 @@
     <string name="go_home">GO HOME</string>
     <string name="home">Enter Address</string>
     <string name="save_address">Save Address</string>
+    <string name="save_number">Save Number</string>
+    <string name="saveChanges">Save Changes</string>
+    <string name="numberHasSaved">Current Saved Number</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment">Input a Phone Number:</string>
+    <string name="howdy">Settings</string>
 </resources>

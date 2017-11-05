@@ -4,4 +4,7 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="data_current_address">text</string>
+    <string name="go_home">GO HOME</string>
+    <string name="home">Enter Address</string>
+    <string name="save_address">Save Address</string>
 </resources>
